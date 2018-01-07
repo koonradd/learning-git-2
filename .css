@@ -1,0 +1,30 @@
+h1 {
+	text-align:center;
+}
+
+.p1 {
+	text-align:center;
+	padding-top: 10px;
+	padding-bottom:10px;
+	background-color: gray;
+	
+	
+}
+
+.p2 {
+	text-align:center;
+	padding-top: 10px;
+	padding-bottom:10px;
+	background-color: lightgray;
+	text-justify: auto;
+	}
+
+.p3 {
+	text-align:center;
+	padding-top: 10px;
+	padding-bottom:10px;
+	background-color: gray;
+	
+	
+}
+	
